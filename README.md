@@ -1,5 +1,5 @@
-Cameron Pittman: Portfolio Website Optimization
-===============================================
+Cameron Portfolio Website Optimization Assignments
+==================================================
 
 Goal
 ----
